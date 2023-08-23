@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessWindowCounter", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodeFlow", "EncodeFlow\EncodeFlow.csproj", "{02B13AF9-8FD3-4B52-9897-512BD35DCE03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExifExtractor", "ExifExtractor\ExifExtractor.csproj", "{B0DB9713-BD8D-4BDE-9B93-3A3F63100370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{02B13AF9-8FD3-4B52-9897-512BD35DCE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02B13AF9-8FD3-4B52-9897-512BD35DCE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02B13AF9-8FD3-4B52-9897-512BD35DCE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DB9713-BD8D-4BDE-9B93-3A3F63100370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DB9713-BD8D-4BDE-9B93-3A3F63100370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DB9713-BD8D-4BDE-9B93-3A3F63100370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DB9713-BD8D-4BDE-9B93-3A3F63100370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

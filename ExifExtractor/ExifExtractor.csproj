@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <ApplicationIcon>info-popup.ico</ApplicationIcon>
+        <PackageVersion>2.3.3</PackageVersion>
+        <Authors>ShiSheng Studio</Authors>
+        <Company>ShiSheng Studio</Company>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MetadataExtractor" Version="2.8.0" />
+    </ItemGroup>
+
+</Project>
